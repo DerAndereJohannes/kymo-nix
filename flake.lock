@@ -1,0 +1,62 @@
+{
+  "nodes": {
+    "kymo": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1795446086,
+        "narHash": "sha256-ENu8AhhU0XbMhV/JQYjxw075edwMOr3joiVH7UKuAKg=",
+        "owner": "cbrnr",
+        "repo": "kymo",
+        "rev": "28142927ae44eec333c8addfab27d137312827c4",
+        "type": "github"
+      },
+      "original": {
+        "owner": "cbrnr",
+        "ref": "v0.1.0",
+        "repo": "kymo",
+        "type": "github"
+      }
+    },
+    "kymo-main": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1795455152,
+        "narHash": "sha256-o6wobBqclONvkGg3t3Hn16DvP7wx9peloyvkEoYMTAk=",
+        "owner": "cbrnr",
+        "repo": "kymo",
+        "rev": "3e08c2be6d38e5d28a3c386e4ae7e1eebbab255f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "cbrnr",
+        "repo": "kymo",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1795234589,
+        "narHash": "sha256-f/VVvxf5RsQgWVhUtefoca5ktVg0DA2bnkMOcmSnozo=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "2786a2a72088ecf32aea5b3ec52099e6a7cff78f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "kymo": "kymo",
+        "kymo-main": "kymo-main",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
