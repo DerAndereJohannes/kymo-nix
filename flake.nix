@@ -19,7 +19,7 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     kymo = {
-      url = "github:cbrnr/kymo/v0.1.0";
+      url = "github:cbrnr/kymo/v0.2.0";
       flake = false;
     };
     kymo-main = {

@@ -3,16 +3,16 @@
     "kymo": {
       "flake": false,
       "locked": {
-        "lastModified": 1795446086,
-        "narHash": "sha256-ENu8AhhU0XbMhV/JQYjxw075edwMOr3joiVH7UKuAKg=",
+        "lastModified": 1795603985,
+        "narHash": "sha256-Jt15Fl7NYGK7lA3QH4Gyvjr9Fq1IjtHQdCai81K392k=",
         "owner": "cbrnr",
         "repo": "kymo",
-        "rev": "28142927ae44eec333c8addfab27d137312827c4",
+        "rev": "efb6e7f48f5c05f62845deb56069839515f924c9",
         "type": "github"
       },
       "original": {
         "owner": "cbrnr",
-        "ref": "v0.1.0",
+        "ref": "v0.2.0",
         "repo": "kymo",
         "type": "github"
       }
